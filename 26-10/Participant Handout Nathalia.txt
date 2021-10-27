@@ -1,0 +1,22 @@
+Qual atividade de aprendizagem da Generation melhor ilustrou esses pontos principais para você até agora? Por quê?
+Escolha uma palavra ou frase curta que melhor conecta esses pontos principais. Explique sua resposta.
+O que aconteceria se esses pontos principais não fossem aprendidos e usados por alguém que foi empregado nessa função? 
+(10 minutos) Leia o estudo de caso.
+(5 minutos) Com uma dupla, responda as perguntas que seguem. Certifique-se de explicar por que você escolheu sua resposta e por que as outras respostas são incorretas.
+
+
+Que outros recursos Tiago poderia ter usado para aprender a nova linguagem de programação?
+R: Tiago deveria ter procurado outros meios para aprender mais rápido a linguagem, como pedir ajudas aos colegas já experientes na área,
+participar de lives, procurar outros cursos gratuitos, além do que ele fez. Apresentar o que já aprendeu mesmo antes da data final, buscar informativos, 
+ferramentas que facilita o conhecimento.
+
+O que Tiago deveria fazer se a equipe decidir que ele não possui conhecimento suficiente sobre Haskell para fazer parte do projeto?
+R: Continuar estudando. Não somente quando precisar mudar de linguagem, mas para se aperfeiçoar mais e quando surgir a oportunidade, poder abraçar.
+
+O que Tiago poderia ter feito de forma diferente nos seus primeiros meses para antecipar-se a esse desafio?
+R: Ele deveria ter buscado mais informações sobre o tipo de linguagem que é trabalhada na empresa e estudar sobre, para aumentar o conhecimento e 
+ingressar quando a equipe iniciar um novo projeto. 
+
+Qual das ações de Tiago demonstra uma mentalidade de persistência?
+R: Tiago demonstrou mentalidade de persistência por não ter desistido, mesmo com todas as dificuldades ele procurou fazer curso online, pagos, 
+isso já mostra o interesse para enfrenta um novo desafio e falar com o seu supervisor sobre quais medidas pode adotar para aprender mais rápido sobre a linguagem.
